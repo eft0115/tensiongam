@@ -1,0 +1,69 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-pretendard), -apple-system, BlinkMacSystemFont,
+    "Malgun Gothic", system-ui, sans-serif;
+}
+
+:root {
+  --background: #fafafa;
+  --foreground: #1f2937;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+}
+
+/* SPEC.md 6장 수치 기준: 본문 가독성 최우선. prose 기본값을 여기서 덮어씁니다. */
+.prose {
+  --tw-prose-body: #1f2937;
+  --tw-prose-headings: #111827;
+  max-width: 680px;
+  font-size: 17px;
+  line-height: 1.8;
+  text-align: left;
+}
+
+.prose :where(p, ul, ol) {
+  margin-top: 1.4em;
+  margin-bottom: 1.4em;
+}
+
+.prose :where(h2, h3) {
+  scroll-margin-top: 1.5rem;
+}
+
+.prose img {
+  border-radius: 0.5rem;
+}
+
+/* 표는 모바일에서 가로 스크롤되도록 감싸고, 끝이 잘려 있다는 것을 옅은 그림자로 알립니다. */
+.prose table {
+  display: block;
+  max-width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  background:
+    linear-gradient(to right, var(--background) 30%, rgba(255, 255, 255, 0)),
+    linear-gradient(to left, var(--background) 30%, rgba(255, 255, 255, 0)) 100% 0,
+    linear-gradient(to right, rgba(31, 41, 55, 0.12), rgba(255, 255, 255, 0) 20px),
+    linear-gradient(to left, rgba(31, 41, 55, 0.12), rgba(255, 255, 255, 0) 20px) 100% 0;
+  background-repeat: no-repeat;
+  background-size: 40px 100%, 40px 100%, 20px 100%, 20px 100%;
+  background-attachment: local, local, scroll, scroll;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+@media (min-width: 768px) {
+  .prose {
+    font-size: 18px;
+  }
+}
