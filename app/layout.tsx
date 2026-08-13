@@ -11,9 +11,29 @@ const pretendard = localFont({
   display: "swap",
 });
 
+const SITE_URL = "https://tensiongam.com";
+const SITE_TITLE = "텐션감 — 몸 전체의 균형을 되찾는 감각";
+const SITE_DESCRIPTION = "40~60대를 위한 근골격계 건강 정보. 물리치료사가 정리하는 텐션감입니다.";
+
 export const metadata: Metadata = {
-  title: "텐션감 — 몸 전체의 균형을 되찾는 감각",
-  description: "40~60대를 위한 근골격계 건강 정보. 물리치료사가 정리하는 텐션감입니다.",
+  metadataBase: new URL(SITE_URL),
+  title: SITE_TITLE,
+  description: SITE_DESCRIPTION,
+  openGraph: {
+    title: SITE_TITLE,
+    description: SITE_DESCRIPTION,
+    url: SITE_URL,
+    siteName: "텐션감",
+    images: [{ url: "/images/og.png", width: 1200, height: 630 }],
+    locale: "ko_KR",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: SITE_TITLE,
+    description: SITE_DESCRIPTION,
+    images: ["/images/og.png"],
+  },
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {

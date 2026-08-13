@@ -130,7 +130,18 @@ export async function getPostsByCategory(category: CategorySlug): Promise<Post[]
 
 export async function getRelatedPosts(post: Post, limit = 3): Promise<Post[]> {
   const categoryPosts = await getPostsByCategory(post.category);
-  return categoryPosts.filter((p) => p.slug !== post.slug).slice(0, limit);
+  const sameCategory = categoryPosts.filter((p) => p.slug !== post.slug);
+
+  if (sameCategory.length >= limit) return sameCategory.slice(0, limit);
+
+  // 같은 카테고리 글이 모자라면(예: 그 카테고리 첫 글) 다른 카테고리 글로 채워
+  // "관련 글" 섹션이 비어 고립된 페이지가 되지 않도록 합니다.
+  const posts = await getAllPosts();
+  const fallback = posts.filter(
+    (p) => p.slug !== post.slug && !sameCategory.some((sp) => sp.slug === p.slug)
+  );
+
+  return [...sameCategory, ...fallback].slice(0, limit);
 }
 
 // 홈 "먼저 읽어보시면 좋은 글": 기둥글이 아직 없는 초기에는 대표성 있는 발행 글로 채웁니다 (SPEC.md 6-1장).

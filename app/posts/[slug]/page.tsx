@@ -22,9 +22,35 @@ export async function generateMetadata({
   const { slug } = await params;
   const post = await getPostBySlug(slug);
   if (!post) return {};
+
+  const url = `https://tensiongam.com/posts/${post.slug}`;
+  // 글 자체의 차트 이미지는 실제 크기가 제각각이라 width/height를 단정하지 않고,
+  // 사이트 기본 OG 이미지(1200x630)를 쓸 때만 정확한 크기를 명시합니다.
+  const image = post.coverImage
+    ? { url: post.coverImage }
+    : { url: "/images/og.png", width: 1200, height: 630 };
+
   return {
     title: post.title,
     description: post.description,
+    alternates: { canonical: url },
+    openGraph: {
+      title: post.title,
+      description: post.description,
+      url,
+      siteName: "텐션감",
+      images: [image],
+      locale: "ko_KR",
+      type: "article",
+      publishedTime: post.publishedAt,
+      modifiedTime: post.updatedAt,
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: post.title,
+      description: post.description,
+      images: [image.url],
+    },
   };
 }
 
