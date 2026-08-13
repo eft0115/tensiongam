@@ -7,8 +7,31 @@ import ReadFirstAccordion from "@/components/ReadFirstAccordion";
 export default async function HomePage() {
   const [posts, featuredPosts] = await Promise.all([getAllPosts(), getFeaturedPosts()]);
 
+  const categoryChips = (
+    <ul className="flex flex-wrap gap-2">
+      {categories.map((category) => (
+        <li key={category.slug}>
+          <Link
+            href={`/category/${category.slug}`}
+            className="inline-flex min-h-11 items-center rounded-full border border-gray-300 bg-white px-4 text-sm text-gray-700 hover:border-gray-400"
+          >
+            {category.name}
+          </Link>
+        </li>
+      ))}
+    </ul>
+  );
+
+  const postCards = (
+    <div className="mt-4 grid gap-4 sm:grid-cols-2">
+      {posts.map((post) => (
+        <PostCard key={post.slug} post={post} />
+      ))}
+    </div>
+  );
+
   return (
-    <div className="mx-auto max-w-5xl px-4 py-10">
+    <div className="mx-auto max-w-6xl px-4 py-10">
       <section>
         <h1 className="text-2xl font-bold text-gray-900">몸 전체의 균형을 되찾는 감각</h1>
         <p className="mt-3 max-w-[680px] text-base text-gray-700">
@@ -19,37 +42,39 @@ export default async function HomePage() {
           href="/about"
           className="mt-3 inline-flex min-h-11 items-center text-sm text-gray-600 underline underline-offset-2 hover:text-gray-900"
         >
-          허물리 · 물리치료사 · 경력 10년 · 가정의학과 의원 근무 경력
+          허물리 · 10년 차 물리치료사 · 가정의학과 의원 근무 경력
         </Link>
       </section>
 
-      <section className="mt-8">
-        <ul className="flex flex-wrap gap-2">
-          {categories.map((category) => (
-            <li key={category.slug}>
-              <Link
-                href={`/category/${category.slug}`}
-                className="inline-flex min-h-11 items-center rounded-full border border-gray-300 bg-white px-4 text-sm text-gray-700 hover:border-gray-400"
-              >
-                {category.name}
-              </Link>
-            </li>
-          ))}
-        </ul>
-      </section>
+      {/* Mobile & tablet (below lg): original stacked layout, unchanged */}
+      <div className="lg:hidden">
+        <section className="mt-8">{categoryChips}</section>
 
-      <section className="mt-10">
-        <h2 className="text-lg font-bold text-gray-900">최근 글</h2>
-        <div className="mt-4 grid gap-4 sm:grid-cols-2">
-          {posts.map((post) => (
-            <PostCard key={post.slug} post={post} />
-          ))}
-        </div>
-      </section>
+        <section className="mt-10">
+          <h2 className="text-lg font-bold text-gray-900">최근 글</h2>
+          {postCards}
+        </section>
 
-      <section className="mt-10">
-        <ReadFirstAccordion posts={featuredPosts} />
-      </section>
+        <section className="mt-10">
+          <ReadFirstAccordion posts={featuredPosts} />
+        </section>
+      </div>
+
+      {/* Desktop (lg+): site_yeje-style 2-column layout, ~7:3 */}
+      <div className="mt-10 hidden lg:grid lg:grid-cols-[7fr_3fr] lg:items-start lg:gap-10">
+        <section>
+          <h2 className="text-lg font-bold text-gray-900">최근 글</h2>
+          {postCards}
+        </section>
+
+        <aside className="space-y-8">
+          <div>
+            <h2 className="text-xs font-bold uppercase tracking-wide text-gray-500">카테고리</h2>
+            <div className="mt-3">{categoryChips}</div>
+          </div>
+          <ReadFirstAccordion posts={featuredPosts} />
+        </aside>
+      </div>
     </div>
   );
 }
