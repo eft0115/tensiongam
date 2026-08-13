@@ -19,7 +19,7 @@ export default async function HomePage() {
           href="/about"
           className="mt-3 inline-flex min-h-11 items-center text-sm text-gray-600 underline underline-offset-2 hover:text-gray-900"
         >
-          허물리 · 물리치료사 · 경력 10년 · 가정의학과 외래 근무
+          허물리 · 물리치료사 · 경력 10년 · 가정의학과 의원 근무 경력
         </Link>
       </section>
 

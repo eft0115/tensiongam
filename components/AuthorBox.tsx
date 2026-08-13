@@ -6,7 +6,7 @@ export default function AuthorBox() {
       <div>
         <p className="font-bold text-gray-900">허물리</p>
         <p className="mt-1 text-sm text-gray-600">
-          물리치료사 · 경력 10년 · 가정의학과 외래 근무
+          물리치료사 · 경력 10년 · 가정의학과 의원 근무 경력
         </p>
         <Link
           href="/about"

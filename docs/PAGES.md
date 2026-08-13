@@ -133,7 +133,7 @@ Google의 개인정보처리방침: https://policies.google.com/privacy
 
 ### 8. 개인정보 보호책임자
 
-**성명:** 허지원
+**성명:** 허물리
 **연락처:** ▶ 이메일 주소 기입
 
 ### 9. 변경 고지
@@ -181,4 +181,4 @@ Google의 개인정보처리방침: https://policies.google.com/privacy
 
 ---
 
-**허지원** | 물리치료사
+**허물리** | 물리치료사
