@@ -4,9 +4,9 @@ description: "같은 허리 통증이라도 뒤로 젖혀야 편한 분과 앞�
 slug: "directional-preference-back-exercise"
 category: "back"
 tags: ["허리 운동", "요통", "척추관협착증", "허리디스크"]
-publishedAt: "2026-08-13"
-updatedAt: "2026-08-13"
-coverImage: ""
+publishedAt: "2026-08-12"
+updatedAt: "2026-08-12"
+coverImage: "/images/posts/directional-preference-back-exercise/08-spinal-canal-flexion.png"
 readingTime: 8
 references:
   - label: "Long A, Donelson R, Fung T. Does it matter which exercise? A randomized control trial of exercise for low back pain. Spine."
@@ -50,7 +50,18 @@ references:
 
 어떤 분은 허리를 뒤로 젖히면 다리 저림이 줄어듭니다. 반대로 어떤 분은 뒤로 젖히는 순간 더 심해지고, 앞으로 숙여야 편해집니다. 재활 분야에서는 이것을 **방향 선호**라고 부릅니다. 그 사람의 증상이 좋아지는 방향이 정해져 있다는 뜻입니다.
 
-이유는 두 질환의 구조에 있습니다. 협착증은 굽혔을 때 척추관이 넓어져 편해지고, 디스크는 굽혔을 때 압력이 뒤로 몰려 더 아파집니다. **방향이 반대인 셈입니다.**
+이유는 두 질환의 구조에 있습니다.
+
+![허리를 굽혔을 때와 폈을 때 척추관의 변화](/images/posts/directional-preference-back-exercise/08-spinal-canal-flexion.png)
+
+협착증은 굽혔을 때 척추관이 넓어져 편해지고, 디스크는 굽혔을 때 압력이 뒤로 몰려 더 아파집니다. **방향이 반대인 셈입니다.**
+
+| | 앞으로 굽히면 | 뒤로 젖히면 |
+|---|---|---|
+| **척추관협착증** | 편해진다 | 불편해진다 |
+| **허리디스크** | 불편해진다 | 편해지는 경우가 많다 |
+
+같은 동작이 한쪽에는 도움이 되고 다른 쪽에는 부담이 됩니다.
 
 그래서 문제가 생깁니다. 인터넷에서 "허리에 좋은 운동"이라며 소개되는 동작 중에는 뒤로 젖히는 것도 있고 앞으로 숙이는 것도 있는데, **어느 쪽이 나에게 맞는지 모르는 상태에서 따라 하면 절반의 확률로 반대 방향을 하게 됩니다.** 열심히 할수록 나빠지는 상황이 여기서 생깁니다.
 
@@ -154,3 +165,17 @@ references:
 - 방향이 정해지기 전에는 통증이 심해지지 않는 범위의 걷기부터 시작하십시오
 
 두 질환의 차이가 궁금하시다면 [척추관협착증과 허리디스크, 앉을 때와 걸을 때](/posts/spinal-stenosis-vs-disc)를 먼저 읽어보시면 이해가 쉽습니다.
+
+---
+
+## 참고한 자료
+
+- Long A, Donelson R, Fung T. Does it matter which exercise? A randomized control trial of exercise for low back pain. *Spine.* [원문 보기](https://pubmed.ncbi.nlm.nih.gov/15564907/)
+- May S, Aina A. Centralization and directional preference: a systematic review. *Man Ther.* [원문 보기](https://pubmed.ncbi.nlm.nih.gov/22695365/)
+- Surkitt LD, et al. Efficacy of directional preference management for low back pain: a systematic review. *Phys Ther.* [원문 보기](https://pubmed.ncbi.nlm.nih.gov/22247407/)
+
+---
+
+> **이 글은 건강 정보 제공을 목적으로 하며, 특정 질병의 진단이나 치료를 대신하지 않습니다.** 운동 중 통증이 생기거나 저린 범위가 넓어지는 경우 즉시 중단하시고, 다리 힘이 빠지거나 감각이 둔해지는 경우에는 지체 없이 의료기관을 방문하시기 바랍니다.
+
+**작성자 |** 허물리 · 물리치료사 (경력 10년)

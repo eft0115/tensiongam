@@ -4,8 +4,8 @@ description: "오십견은 팔이 안 들리는 것으로 시작합니다. 회�
 slug: "frozen-shoulder-vs-rotator-cuff"
 category: "shoulder"
 tags: ["오십견", "유착성 관절낭염", "회전근개", "어깨 통증"]
-publishedAt: "2026-08-13"
-updatedAt: "2026-08-13"
+publishedAt: "2026-08-12"
+updatedAt: "2026-08-12"
 coverImage: "/images/posts/frozen-shoulder-vs-rotator-cuff/07-shoulder-by-age.png"
 readingTime: 9
 references:
@@ -166,7 +166,7 @@ references:
 
 **그래서 "기다리면 낫는다"는 말을 "아무것도 안 해도 된다"로 받아들이시면 곤란합니다.** 기다리는 동안 굳는 범위를 줄여두는 것과, 그대로 두는 것은 결과가 다릅니다.
 
-**당뇨가 있으시면 특히 주의하셔야 합니다.** 오십견은 당뇨가 있는 분에게 더 흔하고 경과가 길어지는 경향이 알려져 있습니다. 손가락 힘줄이 뻑뻑해지는 방아쇠수지에서도 비슷한 경향이 나타납니다.
+**당뇨가 있으시면 특히 주의하셔야 합니다.** 오십견은 당뇨가 있는 분에게 더 흔하고 경과가 길어지는 경향이 알려져 있습니다. 앞서 [방아쇠수지, 아침에 손가락이 걸리는 이유](/posts/trigger-finger-morning-locking)에서 다룬 것과 같은 맥락입니다.
 
 ---
 
@@ -203,3 +203,17 @@ references:
 - 어깨는 안 쓰면 더 굳기 때문에 미룰수록 불리합니다
 
 50대에 어깨 진료가 몰리는 것은 통계에서도 확인됩니다. [근골격계 질환, 40~60대가 가장 많이 진료받는 것들](/posts/musculoskeletal-statistics-40s-60s)에서 다뤘습니다.
+
+---
+
+## 참고한 자료
+
+- Adhesive Capsulitis (Frozen Shoulder). *StatPearls.* [원문 보기](https://www.ncbi.nlm.nih.gov/books/NBK532955/)
+- Adhesive Capsulitis. *PM&R KnowledgeNow.* [원문 보기](https://now.aapmr.org/adhesive-capsulitis/)
+- Chronic Shoulder Pain: Part I. Evaluation and Diagnosis. *Am Fam Physician.* [원문 보기](https://www.aafp.org/pubs/afp/issues/2008/0215/p453.html)
+
+---
+
+> **이 글은 건강 정보 제공을 목적으로 하며, 특정 질병의 진단이나 치료를 대신하지 않습니다.** 여기 소개한 확인 방법은 진단이 아니며, 통증이 있으실 때는 억지로 시행하지 마십시오. 외상 후 팔을 들 수 없거나, 어깨가 붓고 열이 나거나, 팔에 힘이 빠지고 감각이 둔해지는 경우에는 지체 없이 의료기관을 방문하시기 바랍니다.
+
+**작성자 |** 허물리 · 물리치료사 (경력 10년)
