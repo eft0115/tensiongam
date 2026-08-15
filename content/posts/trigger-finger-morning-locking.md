@@ -182,18 +182,3 @@ references:
 - 단계가 올라갈수록 회복이 어려워지므로 미루지 마십시오
 
 다음 글에서는 어깨가 굳는 오십견과 회전근개 문제를 어떻게 구분하는지 다뤄보겠습니다.
-
----
-
-## 참고한 자료
-
-- Rydberg M, et al. Diabetes Mellitus as a Risk Factor for Trigger Finger — a Longitudinal Cohort Study Over More Than 20 Years. [원문 보기](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10012113/)
-- Effects of socioeconomic status on patient-reported outcome after surgically treated trigger finger: a retrospective national registry-based study. [원문 보기](https://pmc.ncbi.nlm.nih.gov/articles/PMC11148673/)
-- Dardas AZ, et al. Trigger finger: prognostic indicators of recurrence following corticosteroid injection. [원문 보기](https://pubmed.ncbi.nlm.nih.gov/18676896/)
-- Wang AA, Hutchinson DT. The Effect of Corticosteroid Injection for Trigger Finger on Blood Glucose Level in Diabetic Patients. *J Hand Surg Am.* [원문 보기](https://www.sciencedirect.com/science/article/abs/pii/S0363502306004941)
-
----
-
-> **이 글은 건강 정보 제공을 목적으로 하며, 특정 질병의 진단이나 치료를 대신하지 않습니다.** 손가락이 펴지지 않거나 붓고 열감이 있는 경우, 저림이 함께 나타나는 경우에는 의료기관을 방문하시기 바랍니다.
-
-**작성자 |** 허물리 · 물리치료사 (경력 10년)

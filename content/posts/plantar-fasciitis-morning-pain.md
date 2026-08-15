@@ -171,17 +171,3 @@ references:
 - 아침에 일어나시기 전 발목을 미리 움직여주시는 것부터 시작해 보십시오
 
 다음 글에서는 아침에 손가락이 걸리는 방아쇠수지를 다뤄보겠습니다. 이 질환도 아침에 가장 심하고 움직이면 나아지는 비슷한 패턴을 보입니다.
-
----
-
-## 참고한 자료
-
-- Lemont H, Ammirati KM, Usen N. Plantar fasciitis: a degenerative process (fasciosis) without inflammation. *J Am Podiatr Med Assoc.* 2003;93(3):234-237. [원문 보기](https://pubmed.ncbi.nlm.nih.gov/12756315/)
-- Trojian T, Tucker AK. Plantar Fasciitis. *Am Fam Physician.* 2019;99(12):744-750. [원문 보기](https://www.aafp.org/pubs/afp/issues/2019/0615/p744.html)
-- Menz HB, Zammit GV, Landorf KB, Munteanu SE. Plantar calcaneal spurs in older people: longitudinal traction or vertical compression? *J Foot Ankle Res.* 2008;1:7. [원문 보기](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2553779/)
-
----
-
-> **이 글은 건강 정보 제공을 목적으로 하며, 특정 질병의 진단이나 치료를 대신하지 않습니다.** 통증이 지속되거나 악화될 경우, 특히 발이 붓거나 감각이 둔해지는 경우에는 의료기관을 방문하시기 바랍니다.
-
-**작성자 |** 허물리 · 물리치료사 (경력 10년)

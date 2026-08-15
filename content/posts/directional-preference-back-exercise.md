@@ -165,17 +165,3 @@ references:
 - 방향이 정해지기 전에는 통증이 심해지지 않는 범위의 걷기부터 시작하십시오
 
 두 질환의 차이가 궁금하시다면 [척추관협착증과 허리디스크, 앉을 때와 걸을 때](/posts/spinal-stenosis-vs-disc)를 먼저 읽어보시면 이해가 쉽습니다.
-
----
-
-## 참고한 자료
-
-- Long A, Donelson R, Fung T. Does it matter which exercise? A randomized control trial of exercise for low back pain. *Spine.* [원문 보기](https://pubmed.ncbi.nlm.nih.gov/15564907/)
-- May S, Aina A. Centralization and directional preference: a systematic review. *Man Ther.* [원문 보기](https://pubmed.ncbi.nlm.nih.gov/22695365/)
-- Surkitt LD, et al. Efficacy of directional preference management for low back pain: a systematic review. *Phys Ther.* [원문 보기](https://pubmed.ncbi.nlm.nih.gov/22247407/)
-
----
-
-> **이 글은 건강 정보 제공을 목적으로 하며, 특정 질병의 진단이나 치료를 대신하지 않습니다.** 운동 중 통증이 생기거나 저린 범위가 넓어지는 경우 즉시 중단하시고, 다리 힘이 빠지거나 감각이 둔해지는 경우에는 지체 없이 의료기관을 방문하시기 바랍니다.
-
-**작성자 |** 허물리 · 물리치료사 (경력 10년)

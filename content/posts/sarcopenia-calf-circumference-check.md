@@ -219,17 +219,3 @@ references:
 - 걷기만으로는 부족하며 근력 운동이 필요합니다
 
 60대에 근골격계 진료가 몰리는 배경에는 이런 변화가 함께 있습니다. [근골격계 질환, 40~60대가 가장 많이 진료받는 것들](/posts/musculoskeletal-statistics-40s-60s)에서 통계로 다뤘습니다.
-
----
-
-## 참고한 자료
-
-- Chen LK, et al. Asian Working Group for Sarcopenia: 2019 Consensus Update on Sarcopenia Diagnosis and Treatment. *J Am Med Dir Assoc.* [원문 보기](https://www.sciencedirect.com/science/article/abs/pii/S1525861019308722)
-- Management of Sarcopenia in Primary Care Settings. *Korean J Fam Med.* [원문 보기](https://www.kjfm.or.kr/journal/view.php?doi=10.4082%2Fkjfm.22.0224)
-- 근감소증의 정의, 검사 방법 및 진단기준에 대한 고찰. [원문 보기](https://synapse.koreamed.org/upload/synapsexml/0178jkd/pdf/jkd-2025-26-2-80.pdf)
-
----
-
-> **이 글은 건강 정보 제공을 목적으로 하며, 특정 질병의 진단이나 치료를 대신하지 않습니다.** 여기 소개한 확인 방법은 선별을 위한 참고이며 진단이 아닙니다. 의도하지 않은 체중 감소, 한쪽만 나타나는 근력 저하, 감각 이상이 있으신 경우에는 지체 없이 의료기관을 방문하시기 바랍니다. 단백질 섭취량은 신장 질환 등 개인의 건강 상태에 따라 달라지므로 반드시 담당 의료진과 상의하십시오.
-
-**작성자 |** 허물리 · 물리치료사 (경력 10년)

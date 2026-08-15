@@ -203,17 +203,3 @@ references:
 - 어깨는 안 쓰면 더 굳기 때문에 미룰수록 불리합니다
 
 50대에 어깨 진료가 몰리는 것은 통계에서도 확인됩니다. [근골격계 질환, 40~60대가 가장 많이 진료받는 것들](/posts/musculoskeletal-statistics-40s-60s)에서 다뤘습니다.
-
----
-
-## 참고한 자료
-
-- Adhesive Capsulitis (Frozen Shoulder). *StatPearls.* [원문 보기](https://www.ncbi.nlm.nih.gov/books/NBK532955/)
-- Adhesive Capsulitis. *PM&R KnowledgeNow.* [원문 보기](https://now.aapmr.org/adhesive-capsulitis/)
-- Chronic Shoulder Pain: Part I. Evaluation and Diagnosis. *Am Fam Physician.* [원문 보기](https://www.aafp.org/pubs/afp/issues/2008/0215/p453.html)
-
----
-
-> **이 글은 건강 정보 제공을 목적으로 하며, 특정 질병의 진단이나 치료를 대신하지 않습니다.** 여기 소개한 확인 방법은 진단이 아니며, 통증이 있으실 때는 억지로 시행하지 마십시오. 외상 후 팔을 들 수 없거나, 어깨가 붓고 열이 나거나, 팔에 힘이 빠지고 감각이 둔해지는 경우에는 지체 없이 의료기관을 방문하시기 바랍니다.
-
-**작성자 |** 허물리 · 물리치료사 (경력 10년)

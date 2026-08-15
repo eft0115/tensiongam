@@ -175,17 +175,3 @@ references:
 60대에 무릎 관절증이 얼마나 흔한지는 [근골격계 질환, 40~60대가 가장 많이 진료받는 것들](/posts/musculoskeletal-statistics-40s-60s)에서 다뤘습니다.
 
 다음 글에서는 어깨가 안 올라갈 때 언제 병원에 가야 하는지를 다뤄보겠습니다.
-
----
-
-## 참고한 자료
-
-- Rice DA, McNair PJ. Quadriceps Arthrogenic Muscle Inhibition: Neural Mechanisms and Treatment Perspectives. [원문 보기](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3308081/)
-- Rice DA, et al. The effects of joint aspiration and intra-articular corticosteroid injection on flexion reflex excitability, quadriceps strength and pain in individuals with knee synovitis. [원문 보기](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4517546/)
-- Knee Joint Aspiration and Injection. *Am Fam Physician.* [원문 보기](https://www.aafp.org/pubs/afp/issues/2002/1015/p1497.html)
-
----
-
-> **이 글은 건강 정보 제공을 목적으로 하며, 특정 질병의 진단이나 치료를 대신하지 않습니다.** 무릎이 붓고 열이 나거나, 체중을 실을 수 없거나, 다친 뒤 빠르게 부어오른 경우에는 지체 없이 의료기관을 방문하시기 바랍니다.
-
-**작성자 |** 허물리 · 물리치료사 (경력 10년)
