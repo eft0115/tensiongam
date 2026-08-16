@@ -5,7 +5,7 @@ slug: "sarcopenia-calf-circumference-check"
 category: "body"
 tags: ["근감소증", "근육 감소", "종아리 둘레", "인바디", "SMI"]
 publishedAt: "2026-08-15"
-updatedAt: "2026-08-15"
+updatedAt: "2026-08-16"
 coverImage: ""
 readingTime: 9
 references:

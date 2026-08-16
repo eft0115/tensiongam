@@ -5,7 +5,7 @@ slug: "lumbar-xray-disc-space-narrowing"
 category: "back"
 tags: ["허리 엑스레이", "간격 좁아짐", "디스크 퇴행", "요통"]
 publishedAt: "2026-08-13"
-updatedAt: "2026-08-13"
+updatedAt: "2026-08-16"
 coverImage: ""
 readingTime: 9
 references:

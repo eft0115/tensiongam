@@ -5,7 +5,7 @@ slug: "frozen-shoulder-stages-management"
 category: "shoulder"
 tags: ["오십견", "유착성 관절낭염", "어깨 통증", "밤에 아픈 어깨"]
 publishedAt: "2026-08-15"
-updatedAt: "2026-08-15"
+updatedAt: "2026-08-16"
 coverImage: ""
 readingTime: 9
 references:

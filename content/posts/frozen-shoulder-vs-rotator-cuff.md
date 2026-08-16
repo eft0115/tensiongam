@@ -5,7 +5,7 @@ slug: "frozen-shoulder-vs-rotator-cuff"
 category: "shoulder"
 tags: ["오십견", "유착성 관절낭염", "회전근개", "어깨 통증"]
 publishedAt: "2026-08-12"
-updatedAt: "2026-08-12"
+updatedAt: "2026-08-16"
 coverImage: "/images/posts/frozen-shoulder-vs-rotator-cuff/07-shoulder-by-age.png"
 readingTime: 9
 references:

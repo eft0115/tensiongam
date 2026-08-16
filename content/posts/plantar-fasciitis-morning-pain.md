@@ -5,7 +5,7 @@ slug: "plantar-fasciitis-morning-pain"
 category: "knee"
 tags: ["족저근막염", "발바닥 통증", "발뒤꿈치 통증"]
 publishedAt: "2026-08-12"
-updatedAt: "2026-08-12"
+updatedAt: "2026-08-16"
 coverImage: "/images/posts/plantar-fasciitis-morning-pain/plantar-fascia-arch.png"
 readingTime: 9
 references:

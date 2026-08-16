@@ -5,7 +5,7 @@ slug: "neurogenic-vs-vascular-claudication"
 category: "back"
 tags: ["신경인성 파행", "척추관협착증", "다리 저림", "말초동맥질환"]
 publishedAt: "2026-08-15"
-updatedAt: "2026-08-15"
+updatedAt: "2026-08-16"
 coverImage: "/images/posts/neurogenic-vs-vascular-claudication/spinal-canal-flexion.png"
 readingTime: 9
 references:

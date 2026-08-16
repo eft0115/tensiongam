@@ -5,7 +5,7 @@ slug: "directional-preference-back-exercise"
 category: "back"
 tags: ["허리 운동", "요통", "척추관협착증", "허리디스크"]
 publishedAt: "2026-08-12"
-updatedAt: "2026-08-12"
+updatedAt: "2026-08-16"
 coverImage: "/images/posts/directional-preference-back-exercise/08-spinal-canal-flexion.png"
 readingTime: 8
 references:

@@ -5,7 +5,7 @@ slug: "trigger-finger-morning-locking"
 category: "shoulder"
 tags: ["방아쇠수지", "손가락 통증", "손 저림", "당뇨 합병증"]
 publishedAt: "2026-08-12"
-updatedAt: "2026-08-12"
+updatedAt: "2026-08-16"
 coverImage: "/images/posts/trigger-finger-morning-locking/tendon-pulley.png"
 readingTime: 8
 references:
