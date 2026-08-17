@@ -19,6 +19,9 @@ export async function generateMetadata({
   return {
     title: `${category.name} — 텐션감`,
     description: category.description,
+    alternates: {
+      canonical: `/category/${category.slug}`,
+    },
   };
 }
 

@@ -1,8 +1,15 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import { categories } from "@/lib/categories";
 import { getAllPosts, getFeaturedPosts } from "@/lib/posts";
 import PostCard from "@/components/PostCard";
 import ReadFirstAccordion from "@/components/ReadFirstAccordion";
+
+export const metadata: Metadata = {
+  alternates: {
+    canonical: "/",
+  },
+};
 
 export default async function HomePage() {
   const [posts, featuredPosts] = await Promise.all([getAllPosts(), getFeaturedPosts()]);

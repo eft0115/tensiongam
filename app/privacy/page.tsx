@@ -3,6 +3,9 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "개인정보처리방침 — 텐션감",
   description: "텐션감이 수집하는 정보의 범위와 이용 목적, 이용자의 권리를 안내합니다.",
+  alternates: {
+    canonical: "/privacy",
+  },
 };
 
 export default function PrivacyPage() {

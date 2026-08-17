@@ -3,6 +3,9 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "문의 — 텐션감",
   description: "텐션감에 오류 제보, 주제 제안, 그 밖의 문의를 남기는 방법을 안내합니다.",
+  alternates: {
+    canonical: "/contact",
+  },
 };
 
 export default function ContactPage() {

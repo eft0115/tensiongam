@@ -3,6 +3,9 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "면책조항 — 텐션감",
   description: "텐션감에 게시된 정보의 성격과 이용 시 유의사항을 안내합니다.",
+  alternates: {
+    canonical: "/disclaimer",
+  },
 };
 
 export default function DisclaimerPage() {

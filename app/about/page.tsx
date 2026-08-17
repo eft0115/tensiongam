@@ -5,6 +5,9 @@ export const metadata: Metadata = {
   title: "소개 — 텐션감",
   description:
     "물리치료사가 5년간 현장에서 본 패턴을 바탕으로 텐션감을 만든 이유를 소개합니다.",
+  alternates: {
+    canonical: "/about",
+  },
 };
 
 export default function AboutPage() {
