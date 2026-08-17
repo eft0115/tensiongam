@@ -5,7 +5,7 @@ slug: "neurogenic-vs-vascular-claudication"
 category: "back"
 tags: ["신경인성 파행", "척추관협착증", "다리 저림", "말초동맥질환"]
 publishedAt: "2026-08-15"
-updatedAt: "2026-08-16"
+updatedAt: "2026-08-18"
 coverImage: "/images/posts/neurogenic-vs-vascular-claudication/spinal-canal-flexion.png"
 readingTime: 9
 references:
@@ -13,6 +13,10 @@ references:
     url: "https://pubmed.ncbi.nlm.nih.gov/24284143/"
   - label: "Comparison of walking variations during treadmill walking test between neurogenic and vascular claudication: a crossover study."
     url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8280597/"
+  - label: "Huang CL, et al. The application of infrared thermography in evaluation of patients at high risk for lower extremity peripheral arterial disease. J Vasc Surg. 2011;54(4):1074-1080."
+    url: "https://pubmed.ncbi.nlm.nih.gov/21784604/"
+  - label: "de Deus Passos M, da Rocha AF. Evaluation of infrared thermography with a portable camera as a diagnostic tool for peripheral arterial disease of the lower limbs compared with color Doppler ultrasonography. Arch Med Sci Atheroscler Dis. 2022;7:e66-e72."
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC9487801/"
 ---
 
 ## 걷다가 쉬어야 하는 증상, 원인이 둘로 갈립니다
@@ -152,6 +156,10 @@ references:
 ## 확인은 어떻게 하나요
 
 **혈관 쪽은 비교적 간단한 검사로 확인할 수 있습니다.** 팔과 발목의 혈압을 재서 비교하는 방법이 대표적입니다. 오래 걸리지 않고 아프지도 않습니다.
+
+제가 있던 병원에는 체열검사기가 있었습니다. 판넬 위에 서시면 체온 분포를 색으로 바로 보여주는 장비였는데, 다리가 아프다고 하시는 분들 중에 검사해보면 순환에는 별다른 문제가 없다고 나오는 경우가 종종 있었습니다. 그런 분들은 원장님이 초음파로 다시 살펴보신 뒤 주사로 도와드렸고, 한결 편해진 얼굴로 걸어 나가시는 모습을 본 기억이 여러 번 있습니다.
+
+**순환 문제가 아니라고 확인되는 것도 중요한 정보입니다.** 혈관 쪽이 아니라는 것이 확인돼야 신경 쪽이든 다른 원인이든 다음 단계로 넘어갈 수 있기 때문입니다.
 
 **신경 쪽은 증상과 진찰, 그리고 필요하면 영상 검사로 확인합니다.** 엑스레이만으로는 척추관 안쪽이 보이지 않아 한계가 있습니다. 이 부분은 [허리 엑스레이, 간격이 좁아졌다는 말의 뜻](/posts/lumbar-xray-disc-space-narrowing)에 정리해 두었습니다.
 

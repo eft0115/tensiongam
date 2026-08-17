@@ -5,7 +5,7 @@ slug: "sarcopenia-calf-circumference-check"
 category: "body"
 tags: ["근감소증", "근육 감소", "종아리 둘레", "인바디", "SMI"]
 publishedAt: "2026-08-15"
-updatedAt: "2026-08-16"
+updatedAt: "2026-08-18"
 coverImage: ""
 readingTime: 9
 references:
@@ -15,6 +15,10 @@ references:
     url: "https://www.kjfm.or.kr/journal/view.php?doi=10.4082%2Fkjfm.22.0224"
   - label: "근감소증의 정의, 검사 방법 및 진단기준에 대한 고찰. 대한당뇨병학회지."
     url: "https://synapse.koreamed.org/upload/synapsexml/0178jkd/pdf/jkd-2025-26-2-80.pdf"
+  - label: "Yin H, Qin C, Tang Q, Wu G, Diao H, et al. Postoperative sarcopenia in older patients with hip fractures: incidence and associated risk factors in a retrospective cohort study. Front Med. 2026;13:1766120."
+    url: "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1766120/full"
+  - label: "Sanad HT, et al. Sarcopenia and related functional outcomes following hip surgery among Egyptian geriatric patients with hip fracture. Cureus. 2023;15(8):e43166."
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC10484563/"
 ---
 
 ## 근감소증, 집에서 확인해보는 방법을 알아보겠습니다
@@ -23,7 +27,13 @@ references:
 
 체중은 그대로인데 근육만 줄어든 상태일 수 있습니다. 이것을 **근감소증**이라고 부릅니다.
 
-문제는 이 변화가 서서히 진행되어 알아차리기 어렵다는 점입니다. 이 글에서는 줄자 하나로 확인해보는 방법과, 체성분 검사(인바디) 결과지에서 무엇을 봐야 하는지 정리해 보겠습니다.
+이 글을 쓰게 된 계기가 있습니다. 병원에 있을 때, 고관절 수술을 받으신 뒤 하체 힘이 빠져 낙상이나 미끄러짐으로 더 큰 병원에 입원하셨다가, 퇴원 후 통원치료를 받으러 오시는 분들을 생각보다 많이 뵀습니다.
+
+그래서 고관절은 제가 정말 경험상 **다른 모든 방법이 없을 때 마지막으로 진지하게 고민해봐야 한다고 생각하는 부위** 중 하나입니다.
+
+나이가 들면서 근육이 줄어드는 것은 이미 알고 계실 겁니다. 다만 미리미리 하체 힘을 길러두시는 것이 **노후의 연금보다 중요할 수 있다**고 감히 말씀드려 봅니다.
+
+이제 그 기준이 되는 내용을 아래에서 확인해보겠습니다.
 
 ---
 
