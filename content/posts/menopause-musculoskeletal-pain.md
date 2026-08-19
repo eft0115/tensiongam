@@ -5,7 +5,7 @@ slug: "menopause-musculoskeletal-pain"
 category: "body"
 tags: ["폐경", "관절통", "근골격계 증후군", "여성 건강", "오십견"]
 publishedAt: "2026-08-16"
-updatedAt: "2026-08-16"
+updatedAt: "2026-08-19"
 coverImage: "/images/posts/menopause-musculoskeletal-pain/05-sex-ratio.png"
 readingTime: 10
 references:
@@ -76,7 +76,7 @@ references:
 
 이 현상을 설명하려는 시도가 최근 정리됐습니다.
 
-2024년 국제 학술지에 발표된 논문에서 연구진은 **"폐경 근골격계 증후군"**이라는 용어를 제안했습니다. 폐경 전후로 여성에게 나타나는 근골격계 문제들을 하나로 묶어 부르는 이름입니다.
+2024년 국제 학술지에 발표된 논문에서 연구진은 **"폐경 근골격계 증후군"이라는** 용어를 제안했습니다. 폐경 전후로 여성에게 나타나는 근골격계 문제들을 하나로 묶어 부르는 이름입니다.
 
 논문이 이 증후군에 포함시킨 것들입니다.
 
