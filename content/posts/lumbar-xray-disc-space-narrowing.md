@@ -1,11 +1,11 @@
 ---
 title: "허리 엑스레이, 간격이 좁아졌다는 말의 뜻"
-description: "엑스레이를 찍고 뼈 사이 간격이 좁아졌다는 말을 들으신 분들이 많습니다. 그 소견이 무엇을 뜻하는지, 그리고 그다음에 무엇을 하실 수 있는지 정리했습니다."
+description: "허리 엑스레이의 간격 좁아짐은 디스크가 얇아졌다는 뜻입니다. 80세에는 허리가 안 아픈 사람도 96%에서 이 소견이 나올 만큼 나이 들면 흔합니다. 간격과 통증이 비례하지 않는 이유와 할 수 있는 것을 정리했습니다."
 slug: "lumbar-xray-disc-space-narrowing"
 category: "back"
 tags: ["허리 엑스레이", "간격 좁아짐", "디스크 퇴행", "요통"]
 publishedAt: "2026-08-13"
-updatedAt: "2026-08-16"
+updatedAt: "2026-08-19"
 coverImage: ""
 readingTime: 9
 references:

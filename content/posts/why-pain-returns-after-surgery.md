@@ -1,11 +1,11 @@
 ---
 title: "수술 후 재활, 잘 끝났는데 왜 다시 아플까요"
-description: "수술은 잘 됐는데 몇 년 뒤 다시 아파서 오시는 분들이 계십니다. 수술 후 재활에서 무엇이 놓치기 쉬운지, 언제 무엇을 물어봐야 하는지 정리했습니다."
+description: "수술은 잘 됐는데 몇 년 뒤 다시 아파서 오시는 분들이 계십니다. 통증이 사라져도 근력과 각도는 6개월이 지나도 완전히 돌아오지 않을 수 있습니다. 무엇을 놓치기 쉬운지와 수술 전후에 물어볼 것을 정리했습니다."
 slug: "why-pain-returns-after-surgery"
 category: "recovery"
 tags: ["수술 후 재활", "인공관절", "회전근개", "재발"]
 publishedAt: "2026-08-12"
-updatedAt: "2026-08-12"
+updatedAt: "2026-08-19"
 coverImage: ""
 readingTime: 9
 references:

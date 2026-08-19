@@ -1,11 +1,11 @@
 ---
 title: "인공관절 수술 후, 시기별로 놓치기 쉬운 것들"
-description: "무릎 인공관절 수술 후 재활은 대개 퇴원 시점에 끊깁니다. 시기별로 무엇을 확인해야 하는지, 그리고 퇴원 전에 꼭 물어보셔야 할 것이 무엇인지 정리했습니다."
+description: "인공관절 수술 후 허벅지 근력은 한 달째 가장 크게 떨어지고 저절로 돌아오지 않습니다. 재활은 통증이 줄면 퇴원 시점에 끊겨 근력 채울 시기를 놓치기 쉽습니다. 시기별 확인할 것과 퇴원 전 물어볼 것을 정리했습니다."
 slug: "knee-replacement-recovery-timeline"
 category: "recovery"
 tags: ["인공관절", "무릎 수술", "수술 후 재활", "TKA"]
 publishedAt: "2026-08-16"
-updatedAt: "2026-08-16"
+updatedAt: "2026-08-19"
 coverImage: ""
 readingTime: 9
 references:

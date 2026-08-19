@@ -1,11 +1,11 @@
 ---
 title: "골다공증 진단 후, 하면 안 되는 동작이 있습니다"
-description: "골다공증이 있으면 몸에 좋다고 알려진 운동 중에도 피해야 할 동작이 있습니다. 척추 골절 위험을 높이는 동작과 그 이유, 대신 해야 할 방향을 정리했습니다."
+description: "골다공증이 있으면 몸에 좋다는 운동 중에도 척추 골절 위험을 높이는 동작이 있습니다. 연구에서 허리를 굽히는 운동을 한 그룹의 척추 골절이 가장 많았습니다. 피해야 할 동작과 대신 할 방향을 정리했습니다."
 slug: "osteoporosis-exercises-to-avoid"
 category: "body"
 tags: ["골다공증", "척추 압박골절", "운동 주의", "골밀도"]
 publishedAt: "2026-08-17"
-updatedAt: "2026-08-17"
+updatedAt: "2026-08-19"
 coverImage: "/images/posts/osteoporosis-exercises-to-avoid/12-flexion-risk.png"
 readingTime: 9
 references:

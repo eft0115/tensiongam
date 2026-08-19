@@ -1,11 +1,11 @@
 ---
 title: "회전근개 수술 후, 팔이 안 올라가는 이유"
-description: "어깨 봉합 수술 후 가장 흔한 어려움은 재파열이 아니라 팔이 안 올라가는 것입니다. 안 움직이는 것이 안전하지 않은 이유와 시기별 원칙을 정리했습니다."
+description: "회전근개 봉합 수술 후 가장 흔한 문제는 재파열이 아니라 어깨가 굳는 것입니다. 조기에 움직이면 재파열률 차이 없이 어깨 각도가 더 좋아졌습니다. 안 움직이는 것이 안전하지 않은 이유와 시기별 원칙을 정리했습니다."
 slug: "rotator-cuff-repair-stiffness"
 category: "recovery"
 tags: ["회전근개", "어깨 수술", "수술 후 재활", "재파열", "어깨 강직"]
 publishedAt: "2026-08-17"
-updatedAt: "2026-08-17"
+updatedAt: "2026-08-19"
 coverImage: ""
 readingTime: 9
 references:

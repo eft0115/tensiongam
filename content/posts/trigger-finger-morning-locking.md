@@ -1,11 +1,11 @@
 ---
 title: "방아쇠수지, 아침에 손가락이 걸리는 이유"
-description: "방아쇠수지는 아침에 손가락이 굽은 채 안 펴지고 억지로 펴면 딸깍하는 느낌이 특징입니다. 왜 그런지와 당뇨와의 관계, 주사 전에 알아두실 것을 정리했습니다."
+description: "방아쇠수지는 아침에 손가락이 굽어 안 펴지다가 억지로 펴면 딸깍합니다. 일반 인구의 발생률은 2~3%지만 당뇨가 있으면 10~15%까지 올라갑니다. 아침에 심한 이유와 당뇨 관계, 주사 전 유의점을 정리했습니다."
 slug: "trigger-finger-morning-locking"
 category: "shoulder"
 tags: ["방아쇠수지", "손가락 통증", "손 저림", "당뇨 합병증"]
 publishedAt: "2026-08-12"
-updatedAt: "2026-08-17"
+updatedAt: "2026-08-19"
 coverImage: "/images/posts/trigger-finger-morning-locking/tendon-pulley.png"
 readingTime: 8
 references:

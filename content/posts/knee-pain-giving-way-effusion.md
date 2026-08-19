@@ -1,11 +1,11 @@
 ---
 title: "무릎 통증, 시큰거리다 갑자기 힘이 빠지는 이유"
-description: "무릎이 시큰거리다 갑자기 꺾일 것 같은 느낌이 드는 분들이 계십니다. 물이 차면 왜 힘이 빠지는지, 물을 빼면 왜 편해지는지, 왜 또 차는지 정리했습니다."
+description: "무릎에 물이 차면 관절 압력이 올라가 허벅지 근육에 힘이 잘 들어가지 않습니다. 물을 뺀 직후 근력이 오르고 그 효과가 15일 뒤까지 이어진 연구 결과가 있습니다. 왜 힘이 빠지는지, 왜 다시 차는지 정리했습니다."
 slug: "knee-pain-giving-way-effusion"
 category: "knee"
 tags: ["무릎 통증", "무릎 관절염", "무릎에 물", "관절천자"]
 publishedAt: "2026-08-12"
-updatedAt: "2026-08-16"
+updatedAt: "2026-08-19"
 coverImage: ""
 readingTime: 9
 references:

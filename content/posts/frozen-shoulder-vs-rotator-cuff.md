@@ -1,11 +1,11 @@
 ---
 title: "오십견, 팔이 안 올라갈 때 병원에 가야 할 기준"
-description: "오십견은 팔이 안 들리는 것으로 시작합니다. 회전근개와 어떻게 다른지, 집에서 해보시고 안 되면 미루지 마셔야 하는 이유와 그 기준을 정리했습니다."
+description: "오십견과 회전근개 문제는 둘 다 팔이 안 올라가지만 원인이 다릅니다. 다른 사람이 팔을 들어줘도 올라가지 않는지가 두 질환을 구분하는 핵심 기준입니다. 집에서 확인하는 방법과 병원에 가야 하는 기준을 정리했습니다."
 slug: "frozen-shoulder-vs-rotator-cuff"
 category: "shoulder"
 tags: ["오십견", "유착성 관절낭염", "회전근개", "어깨 통증"]
 publishedAt: "2026-08-12"
-updatedAt: "2026-08-16"
+updatedAt: "2026-08-19"
 coverImage: "/images/posts/frozen-shoulder-vs-rotator-cuff/07-shoulder-by-age.png"
 readingTime: 9
 references:

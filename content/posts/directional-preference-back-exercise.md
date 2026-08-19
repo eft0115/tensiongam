@@ -1,11 +1,11 @@
 ---
 title: "허리 운동, 사람마다 맞는 방향이 다른 이유"
-description: "같은 허리 통증이라도 뒤로 젖혀야 편한 분과 앞으로 굽혀야 편한 분이 나뉩니다. 인터넷 운동을 그대로 따라 하시면 안 되는 이유를 정리했습니다."
+description: "허리 통증은 뒤로 젖혀야 편한 경우와 앞으로 굽혀야 편한 경우로 나뉩니다. 만성 요통 환자의 60%에서 방향 선호가 확인됩니다. 방향을 확인하는 기준과 주의할 점을 정리했습니다."
 slug: "directional-preference-back-exercise"
 category: "back"
 tags: ["허리 운동", "요통", "척추관협착증", "허리디스크"]
 publishedAt: "2026-08-12"
-updatedAt: "2026-08-18"
+updatedAt: "2026-08-19"
 coverImage: "/images/posts/directional-preference-back-exercise/08-spinal-canal-flexion.png"
 readingTime: 8
 references:

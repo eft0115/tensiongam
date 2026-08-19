@@ -1,11 +1,11 @@
 ---
 title: "어깨 통증 시기별 관리, 굳는 때와 풀리는 때"
-description: "오십견은 세 시기를 거치며 시기마다 해야 할 것이 다릅니다. 아픈 때와 굳는 때, 풀리는 때를 구분하는 방법과 각 시기의 주의점을 정리했습니다."
+description: "오십견은 아픈 시기, 굳는 시기, 풀리는 시기를 거치며 시기마다 해야 할 것이 다릅니다. 초기에 강하게 늘리면 오히려 회복 기간이 길어질 수 있습니다. 시기 구분법과 주의점을 정리했습니다."
 slug: "frozen-shoulder-stages-management"
 category: "shoulder"
 tags: ["오십견", "유착성 관절낭염", "어깨 통증", "밤에 아픈 어깨"]
 publishedAt: "2026-08-15"
-updatedAt: "2026-08-16"
+updatedAt: "2026-08-19"
 coverImage: ""
 readingTime: 9
 references:
